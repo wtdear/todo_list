@@ -28,7 +28,13 @@
    git clone https://github.com/wtdear/todo-list-python.git
    cd todo-list-python
    ```
-2. Запустите скрипт:
+   
+2. Скачайте зависимости:
+   ```bash
+   pip install colorama
+   ```
+   
+3. Запустите скрипт:
    ```bash
    python main.py
    ```
