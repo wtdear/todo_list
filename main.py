@@ -2,7 +2,8 @@ import colorama
 import logging
 import os
 
-from colorama import Fore, Back, Style
+from colorama import Fore, Back, Style, init
+init(autoreset=True)
 
 log_dir = "logs" 
 if not os.path.exists(log_dir):

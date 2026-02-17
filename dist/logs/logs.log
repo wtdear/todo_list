@@ -1,0 +1,5 @@
+2026-02-17 16:04:39,219 - INFO - User add task dd
+2026-02-17 16:04:56,435 - INFO - User deleted task: 
+2026-02-17 16:05:00,934 - INFO - User add task test
+2026-02-17 16:05:03,984 - INFO - User completed task: Задача: test | статус: False
+2026-02-17 16:05:10,066 - INFO - User deleted task: Задача: dd | статус: False
